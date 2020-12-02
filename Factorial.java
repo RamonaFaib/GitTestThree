@@ -13,6 +13,7 @@ public class Factorial {
         System.out.println("Enter number:");
         int number = sc.nextInt();
         int secretNumber = 3;
+        int anotherNum = number + secretNumber;
         sc.close();
 
         int i = 1;
