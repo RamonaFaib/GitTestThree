@@ -15,6 +15,7 @@ public class Factorial {
         int secretNumber = 3;
         int anotherNum = number + secretNumber;
         String smt = "Hello World!"
+        String smtII = "Hello Git!"
         sc.close();
 
         int i = 1;
