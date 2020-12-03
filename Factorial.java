@@ -17,7 +17,6 @@ public class Factorial {
         String smt = "Hello World!"
         String smtII = "Hello Git!"
         String smtIII = "Hello Git 2!"
-        String smtIX = "Hello Git 3!"
         sc.close();
 
         int i = 1;
