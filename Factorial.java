@@ -12,6 +12,13 @@ public class Factorial {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter number:");
         int number = sc.nextInt();
+        int secretNumber = 3;
+        int anotherNum = number + secretNumber;
+        String smt = "Hello World!"
+        String smtII = "Hello Git!"
+        String smtIII = "Hello Git 1!"
+        String smtIX = "Hello Git 2!"
+        String smtV = "Hello Git 3!"
         sc.close();
 
         int i = 1;
