@@ -19,6 +19,12 @@ public class Factorial {
         String smtIII = "Hello Git 1!"
         String smtIX = "Hello Git 2!"
         String smtV = "Hello Git 3!"
+        int number1 = 1;
+        int number2 = 2;
+        int number3 = 3;
+        int number4 = 4;
+        int number5 = number1 + number4;
+        
         sc.close();
 
         int i = 1;
